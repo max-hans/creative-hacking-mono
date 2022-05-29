@@ -1,5 +1,7 @@
 # cheat sheet extended
 
+check online reference for more info -> https://p5js.org/reference/
+
 ## environment
 
 ### print()
